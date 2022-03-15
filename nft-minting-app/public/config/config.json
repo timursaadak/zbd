@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0f2c841882196b9459b9781d433ddf3eca3a03f3",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0xaf3d964fdc93693244256c271a59667fae3b5b897760136996d6adf1d8c12c01",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "ZARBA",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.00001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/zarba",
+  "SHOW_BACKGROUND": true
+}
